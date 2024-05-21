@@ -1,2 +1,2 @@
 # Leetcode_Questions
-Coding Questions along with solutions from Leetcode Platform!!!
+Solutions to questions from Leetcode Platform!!!
